@@ -1,0 +1,5 @@
+{
+  "name": "Bookii PDF Reader",
+  "description": "A minimalist, modern PDF book reader inspired by Bookii, featuring automatic thumbnail generation, persistent storage, and AI-powered book summaries.",
+  "requestFramePermissions": []
+}
